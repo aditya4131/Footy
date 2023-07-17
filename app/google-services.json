@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757415746581",
+    "project_id": "footy-1cc30",
+    "storage_bucket": "footy-1cc30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757415746581:android:85e0656c3e362205e9021c",
+        "android_client_info": {
+          "package_name": "com.example.footy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757415746581-j8ku29o7ktk08tndft6ouodo4in8k8oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyU1bfxlCH32yI29PyXgQ3fQFZH2henX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757415746581-j8ku29o7ktk08tndft6ouodo4in8k8oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
